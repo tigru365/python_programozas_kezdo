@@ -1,5 +1,4 @@
-"""
-FELADAT:
+""" FELADAT:
 Írj egy programot, amely véletlenszerűen generálja egy derékszögű háromszög
 befogóit (1-20) és kiszámolja az átfogót és a háromszög területét, majd
 kírja az oldalakat és a területet!

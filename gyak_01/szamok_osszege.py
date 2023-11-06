@@ -1,5 +1,4 @@
-"""
-FELADAT:
+""" FELADAT:
 While ciklussal add össze azokat a számokat, amelyek a 10000 és 35000
 zárt intervallumba esnek és oszthatók 7-tel!
 """

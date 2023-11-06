@@ -1,5 +1,4 @@
-"""
-FELADAT:
+""" FELADAT:
 Írj egy programot, amely előállít egy 110 elemű sorozatot 1-gyel kezdve úgy,
 hogy a sorozat elemei között 12 a különbség!
 - A program írja ki a sorozat 1. és 10. elemét egymás mellé!

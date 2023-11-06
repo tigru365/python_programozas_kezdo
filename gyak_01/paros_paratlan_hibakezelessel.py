@@ -1,5 +1,4 @@
-"""
-FELADAT:
+""" FELADAT:
 A program kérjen be egy számot és írja ki, hogy a szám páros vagy páratlan!
 A program írjon hibaüzenetet, ha a beolvasott érték nem egész szám!
 """
