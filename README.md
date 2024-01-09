@@ -1,4 +1,4 @@
-# Bevezetés a Python programozásba
+# Bevezetés a Python programozásba (test repository)
 
 Gyakorló feladatok __Python__ programnyelven.
 
